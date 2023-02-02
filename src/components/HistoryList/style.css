@@ -1,0 +1,20 @@
+.history-list {
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.9) !important;
+  position: absolute;
+  top: 29vh;
+  left: 0.8%;
+  width: 33vh;
+  max-height: 30vh;
+  overflow: hidden;
+}
+
+.history-list-items {
+  padding: 8px;
+}
+
+.history-list-items-container {
+    padding: 8px;
+    max-height: 25vh;
+    overflow: auto;
+  }
